@@ -1,6 +1,6 @@
 ### 👋
 
-- 🔭 I’m currently working on *Crypto Forecast*
+- 🔭 I’m currently working on *NFT by AI*
 - 📫 How to reach me: dexxxed.app@gmail.com
 - ⚡ My Freelancehunt Account: [shpy](https://freelancehunt.com/freelancer/shpy.html)
 
