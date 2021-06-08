@@ -1,6 +1,6 @@
 ### 👋
 
-- 🔭 I’m currently working on *NFT by AI*
+- 🔭 I’m currently working on *DeFi Apps*
 - 📫 How to reach me: dexxxed.app@gmail.com
 - ⚡ My Freelancehunt Account: [shpy](https://freelancehunt.com/freelancer/shpy.html)
 
